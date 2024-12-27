@@ -47,10 +47,8 @@ sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MA
 Please reboot after the install script completes and takes you to sddm login screen (or black screen) for the first time.   
 For more details, please refer [installation.md](https://github.com/prasanthrangan/hyprdots/blob/main/installation.md)
 
-> if shortcut for volume doesn't work
-```shell
-sudo dnf install pamixer
-```
+> if some feature doesnt work you can open the installation part in ```fedora-hyprland-hyprdots/build-hyprland-and-apps``` check if all of the apps or dependencies are installed
+
 > for more theme if the theme chooser only show a few theme
 
 [Themes](https://github.com/prasanthrangan/hyde-themes.git)
