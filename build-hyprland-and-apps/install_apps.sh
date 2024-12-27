@@ -37,5 +37,4 @@ install_packages \
     sddm \
     firefox \
     kde-cli-tools \
-    fastfetch \
-    pamixer
+    fastfetch
